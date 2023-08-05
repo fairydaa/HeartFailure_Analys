@@ -1,4 +1,4 @@
-# HeartFailure_Analys
+# HeartFailure_Analysis
 ## Domain Proyek
 
 Gagal ginjal merupakan suatu kondisi medis yang serius dan kompleks di mana fungsi ginjal untuk menyaring dan membersihkan darah dari limbah dan racun menurun secara signifikan. Penyakit ini dapat berakibat fatal jika tidak dikelola dengan baik. Gagal ginjal dapat mempengaruhi berbagai aspek kehidupan pasien, termasuk kualitas hidup, harapan hidup, serta beban finansial akibat biaya perawatan.
